@@ -1,0 +1,6 @@
+@import url(./config.css);
+@import url(./layout.css);
+@import url(../fonts/fonts.css);
+@import url(./sections/tasks.css);
+@import url(./blocks/buttons.css);
+@import url(./media.css);
